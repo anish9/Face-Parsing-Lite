@@ -11,3 +11,5 @@ The masks of CelebAMask-HQ were manually-annotated with the size of 512 x 512 an
 * ```DepthWise Convolution``` was used for the balance of parameter efficiency and accuracy.
 * ```gelu``` was used in upscale pathway for smooth graident.
   
+### Acknowledge
+https://github.com/zllrunning/face-parsing.PyTorch
