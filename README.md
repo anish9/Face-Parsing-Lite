@@ -1,5 +1,8 @@
 # Face-Parsing-Lite
 
+![results](https://github.com/anish9/Face-Parsing-Lite/blob/main/assets/result_col.png)
+
+
 ### Dataset
 The masks of CelebAMask-HQ were manually-annotated with the size of 512 x 512 and 19 classes including all facial components and accessories such as skin, nose, eyes, eyebrows, ears, mouth, lip, hair, hat, eyeglass, earring, necklace, neck, and cloth.
 
