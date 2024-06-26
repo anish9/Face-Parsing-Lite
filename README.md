@@ -10,6 +10,6 @@ The masks of CelebAMask-HQ were manually-annotated with the size of 512 x 512 an
 * ```Invert residual blocks``` design was used for Squeeze and Exapansion.
 * ```DepthWise Convolution``` was used for the balance of parameter efficiency and accuracy.
 * ```gelu``` was used in upscale pathway for smooth graident.
-  
+*  Trained with a ```Polynomial Decay Schedule```.
 ### Acknowledge
 https://github.com/zllrunning/face-parsing.PyTorch
