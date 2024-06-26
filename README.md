@@ -1,4 +1,4 @@
-# Face-Parsing-Lite
+# Face-Parsing-Lite - Tensorflow
 
 ![results](https://github.com/anish9/Face-Parsing-Lite/blob/main/assets/result_col.png)
 
