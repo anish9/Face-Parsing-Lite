@@ -1,4 +1,4 @@
-# Face-Parsing-Lite - TensorFlow - Keras
+# Face-Parsing-Lite - TensorFlow (2.15.0) - Keras
 
 ![results](https://github.com/anish9/Face-Parsing-Lite/blob/main/assets/result_col.png)
 
